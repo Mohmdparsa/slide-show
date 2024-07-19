@@ -1,11 +1,11 @@
+import ImageCarousel from "./components/ImageCarousel";
 
-
-const App=()=> {
+const App = () => {
   return (
-    <div >
- 
+    <div>
+      <ImageCarousel />
     </div>
   );
-}
+};
 
 export default App;
